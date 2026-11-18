@@ -474,7 +474,7 @@ my skills, and it can be like run this report,
 and then send email to the CEO his
 
 **[00:52:01,693 → 00:52:04,283]**
-uh email is summon at booked inai.
+uh email is ceo@yourcompany.com.
 
 **[00:52:05,963 → 00:52:08,893]**
 Okay, great. So because it has already access

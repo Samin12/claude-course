@@ -246,7 +246,7 @@ drop in my files, and my team will be able
 to access this. So I don't know if you know
 
 **[02:06:31,801 → 02:06:33,781]**
-my run this company called Booked in AI,
+my run this company called Converti,
 
 **[02:06:33,801 → 02:06:35,871]**
 and we have to build software as a team.

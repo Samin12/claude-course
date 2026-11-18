@@ -12,7 +12,7 @@
 
 ## Links referenced
 
-- `bookedin.ai` — Alex works at this (fictional) B2B SaaS. Used as the brand-voice reference Claude looks up when building the deck. Substitute your own brand URL.
+- `converti.ai` — Alex works at this (fictional) B2B SaaS. Used as the brand-voice reference Claude looks up when building the deck. Substitute your own brand URL.
 - Samin's community classroom — referenced as a place he drops interactive Claude artifacts as guides for members. Uses the exact same publish-artifact flow.
 
 ## Downloads / templates for this day

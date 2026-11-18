@@ -14,7 +14,7 @@
 ## Links referenced
 
 - `claude.ai/upgrade` — plan comparison for Pro vs. Max.
-- Samin references `bookedin.ai` (fictional SaaS Alex works at) for the HubSpot connector authentication.
+- Samin references `converti.ai` (fictional SaaS Alex works at) for the HubSpot connector authentication.
 
 ## Downloads / templates for this day
 

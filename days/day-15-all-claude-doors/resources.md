@@ -12,7 +12,7 @@
 ## Links referenced
 
 - `platform.claude.com` — where the Anthropic Agent Manager lives. Doesn't work on your Claude Desktop subscription — it's its own billing.
-- Booked in AI — Samin's SaaS, name-dropped when showing the team file-sharing in Warp.
+- Converti — Samin's SaaS, name-dropped when showing the team file-sharing in Warp.
 - Samin's AI Agents Control Center / AIOS — linked inside his Skool community (free install guide + downloads).
 
 ## Downloads / templates for this day

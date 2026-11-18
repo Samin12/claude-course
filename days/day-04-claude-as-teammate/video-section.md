@@ -610,7 +610,7 @@ Now I need to go to HubSpot.
 Right here, I'm gonna hit plus
 
 **[00:31:56,196 → 00:31:59,456]**
-and I'm gonna connect my account for booked
+and I'm gonna connect my account for Converti.
 
 **[00:31:59,476 → 00:32:01,686]**
-in. So remember Alice works on booked in.
+So remember Alice works on Converti.
