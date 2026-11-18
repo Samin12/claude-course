@@ -11,7 +11,7 @@
 
 - HeyGen Developers / API dashboard — inside HeyGen, sidebar → Developers → API dashboard.
 - Composio Connect Apps — [app.composio.dev](https://app.composio.dev) <!-- verify URL -->
-- BookedIn.ai (Samin's product, used as the ad example) — <!-- Samin, verify URL -->
+- Converti (Samin's product, used as the ad example) — https://converti.ai
 
 ## Downloads / templates for this day
 

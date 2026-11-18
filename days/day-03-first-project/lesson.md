@@ -33,7 +33,7 @@ This is where Claude stops feeling like a chatbot and starts feeling like a work
    
    In Alex's case, meta ads burned $27k for $1,200 back. YouTube spent $1,350 and pulled $9,600. Blog and Instagram same shape. The answer: cut meta, double down on organic.
 6. **Build the deck.** Once the insights are there, ask Claude to package it:
-   > "With all this data, build me a presentation artifact based on our brand guidelines (look it up from bookedin.ai). Cover the P&L, key findings, recommendations, and where to shift the budget. Make it clean — this is going to the CEO tomorrow."
+   > "With all this data, build me a presentation artifact based on our brand guidelines (look it up from converti.ai). Cover the P&L, key findings, recommendations, and where to shift the budget. Make it clean — this is going to the CEO tomorrow."
    
    Claude builds a branded slide deck. Export it to Google Slides with one click from the artifact menu — now you can edit it in your browser.
 7. **Level it up — build an interactive widget.** Instead of a static deck, ask for something the CEO can play with:

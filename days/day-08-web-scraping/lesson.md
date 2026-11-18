@@ -14,7 +14,7 @@ Video: `00:54:00` → `01:04:00` (see `video-section.md` for the transcript slic
 
 ## Why this matters
 
-You've now got Dispatch on your phone, scheduled tasks running weekly, and skills wired up. But one of BookedIn's clients — a travel agency — needs hotel prices scraped from Booking.com, Expedia, and Hotels.com every morning. Those sites don't have connectors. There's no Booking.com toggle. And if Claude tries to visit them raw, CAPTCHAs and bot detectors shut it down. Today's about giving Claude a safe, isolated browser so it can scrape anything on the internet — then scheduling it so the data just shows up.
+You've now got Dispatch on your phone, scheduled tasks running weekly, and skills wired up. But one of Converti's clients — a travel agency — needs hotel prices scraped from Booking.com, Expedia, and Hotels.com every morning. Those sites don't have connectors. There's no Booking.com toggle. And if Claude tries to visit them raw, CAPTCHAs and bot detectors shut it down. Today's about giving Claude a safe, isolated browser so it can scrape anything on the internet — then scheduling it so the data just shows up.
 
 ## Step-by-step
 

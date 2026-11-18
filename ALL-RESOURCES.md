@@ -88,7 +88,7 @@ Orientation only. Nothing to install.
 - Extended Thinking toggle
 
 **Reference**
-- BookedIn.ai — Alex's fictional SaaS, used as the brand-voice URL
+- Converti — Alex's fictional SaaS, used as the brand-voice URL
 
 **Day folder:** [days/day-03-first-project/](days/day-03-first-project/)
 

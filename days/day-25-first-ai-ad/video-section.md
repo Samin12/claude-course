@@ -120,10 +120,10 @@ and from there, use the C dance model,
 and with the C dance model I want you to
 
 **[03:58:27,217 → 03:58:29,107]**
-make an ad for booked in AI.
+make an ad for Converti.
 
 **[03:58:29,347 → 03:58:31,887]**
-And booked in AI is basically
+And Converti is basically
 
 **[03:58:31,907 → 03:58:34,287]**
 uh you can go look it up what it does, but it's
@@ -151,11 +151,11 @@ are Not able to, you know.
 They're losing a lot of jobs, but maybe let's
 
 **[03:58:54,167 → 03:58:58,977]**
-make it so that a friend um shows them booked in
-AI. And after the friend shows them booked in
+make it so that a friend um shows them Converti.
+And after the friend shows them Converti,
 
 **[03:58:58,997 → 03:59:01,457]**
-AI, they use it, and they're like really happy
+they use it, and they're like really happy
 
 **[03:59:01,477 → 03:59:04,037]**
 because now AI is handling all their calls.
@@ -203,13 +203,13 @@ Always booking. Uh so okay.
 It's pretty good. Some uh small mistakes.
 
 **[03:59:49,687 → 03:59:51,827]**
-You notice how it says booked AI.
+You notice how it says the name wrong.
 
 **[03:59:51,847 → 03:59:54,417]**
 It's probably because when I spoke it out. It
 
 **[03:59:54,657 → 03:59:57,017]**
-uh I I didn't say booked in and it didn't get
+uh I I didn't say it clearly and it didn't get
 
 **[03:59:57,037 → 03:59:59,087]**
 it correctly. And then some other small

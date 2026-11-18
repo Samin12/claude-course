@@ -535,7 +535,7 @@ can you build me a presentation, an artifact,
 based on our brand guidelines?
 
 **[00:17:34,738 → 00:17:37,248]**
-You can look it up from booked in.ai,
+You can look it up from converti.ai,
 
 **[00:17:37,368 → 00:17:39,708]**
 cover all the profit and loss,

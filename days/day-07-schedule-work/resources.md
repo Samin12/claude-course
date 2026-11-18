@@ -20,7 +20,7 @@ Quick scheduled-task setup (paste in the prompt field when creating a new task):
 
 ```
 Run /weekly marketing report, then send the final deck as an email to the CEO
-at samin@bookedin.ai with a one-paragraph summary of the highlights.
+at ceo@yourcompany.com with a one-paragraph summary of the highlights.
 ```
 
 Schedule-from-Cowork prompt (works inside any chat with `/schedule`):

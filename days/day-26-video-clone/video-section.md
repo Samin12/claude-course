@@ -204,7 +204,7 @@ Is basically generating video ads becomes
 really easy because of how we just um
 
 **[04:03:00,437 → 04:03:02,627]**
-made the video ads for Booked in AI.
+made the video ads for Converti.
 
 **[04:03:02,717 → 04:03:04,877]**
 And then getting clips and
